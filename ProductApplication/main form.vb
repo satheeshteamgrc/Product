@@ -1,5 +1,5 @@
 ﻿Public Class Form1
     Private Sub CLick_btn_Click(sender As Object, e As EventArgs) Handles CLick_btn.Click
-        MsgBox("success")
+        MsgBox("success meet")
     End Sub
 End Class
