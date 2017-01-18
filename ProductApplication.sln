@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ProductApplication", "ProductApplication\ProductApplication.vbproj", "{B024151F-092D-4FEC-88C1-23F79966394F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ProductApp", "ProductApp\ProductApp.vdproj", "{FDF8FBF4-3B33-40CF-877E-410D7983E9E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B024151F-092D-4FEC-88C1-23F79966394F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B024151F-092D-4FEC-88C1-23F79966394F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B024151F-092D-4FEC-88C1-23F79966394F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B024151F-092D-4FEC-88C1-23F79966394F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF8FBF4-3B33-40CF-877E-410D7983E9E6}.Debug|Any CPU.ActiveCfg = Debug
+		{FDF8FBF4-3B33-40CF-877E-410D7983E9E6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
